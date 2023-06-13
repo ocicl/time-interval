@@ -1,0 +1,10 @@
+* time-interval
+
+Representation of periods of time such as 3 years, 4 months and 5 days.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/slyrus/time-interval.git   |
+| commit  | 576dbc4  |
+| systems | time-interval |
+|---------+-------------------------------------------|
+
